@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarnacleJones
 - 👀 I’m interested in learning software/web development and all things related.
-- 👀 Looking for work, in Hamilton or Tauranga New Zealand!
+- 👀 Looking for IT work, in Hamilton or Tauranga New Zealand! Junior dev/tester/cloud jobs.
 - 🌱 I’m currently working my way through The Odin Project curriculum alongside my studies in software development.
 - 📫 Reach me via email at benmjones@protonmail.com.
 
