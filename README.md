@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarnacleJones
-- -Jr dev based in NZ.
+- Jr dev based in NZ.
 - Working with C#/Js/Ts/SQL/MVC.NET at work
 - A bit of everything dumped here in my learning journey
 <!---
