@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @BarnacleJones
+- I am a Juinior Developer based in NZ, programming in .NET ecosystem
+- I use GitHub to store my personal projects
+- Its a mess here
 
 
 <!---
