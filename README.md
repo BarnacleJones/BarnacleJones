@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @BarnacleJones
-- I am a Junior Developer based in NZ, programming in .NET ecosystem
-- I use GitHub to store my personal projects
-- Its a mess here
+# 👋 Hi, I'm BarnacleJones!
 
+🚀 Junior Developer in New Zealand.
 
-<!---
-BarnacleJones/BarnacleJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills
+
+- **Languages:** C#, JavaScript, TypeScript, T-SQL
+- **Frameworks:** 
+  - .NET MVC
+  - Entity Framework
+  - Blazor (MAUI)
+  - React
+
+- **Tools:**
+  - Visual Studio
+  - SQL Server
+
+## 📫 Connect
+
+- LinkedIn: [Ben](https://www.linkedin.com/in/ben-jones-2023b6209/)
