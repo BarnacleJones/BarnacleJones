@@ -17,13 +17,13 @@
   - SQL Server
 
 - **Other Languages/Tools/Frameworks I've hacked around with and stored here:**
-- Python
-- SQlite
-- MongoDb + Compass
-- PHP
-- React
-- Node.js
-- Webpack
+  - Python
+  - SQlite
+  - MongoDb + Compass
+  - PHP
+  - React
+  - Node.js
+  - Webpack
 
 ## 📫 Connect
 
