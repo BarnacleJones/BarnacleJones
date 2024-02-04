@@ -4,7 +4,8 @@
 
 ## 🛠️ Skills
 
-- **Languages:** C#, JavaScript, TypeScript, T-SQL
+- **Languages:** C#, JavaScript, TypeScript, SQL, CSS, HTML lol
+
 - **Frameworks:** 
   - .NET MVC
   - Entity Framework
@@ -14,6 +15,15 @@
 - **Tools:**
   - Visual Studio
   - SQL Server
+
+- **Other Languages/Tools/Frameworks I've hacked around with and stored here:**
+- Python
+- SQlite
+- MongoDb + Compass
+- PHP
+- React
+- Node.js
+- Webpack
 
 ## 📫 Connect
 
