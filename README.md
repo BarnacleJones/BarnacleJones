@@ -7,18 +7,17 @@
 - **Languages:** C#, JavaScript, TypeScript, SQL, CSS, HTML, Python
 
 
-- **Technologies I've worked with professionally:**
+- **Thungs I've worked with professionally:**
   - .NET MVC
   - .NET web API's
   - Entity Framework
   - Blazor + Razor Views + Bootstrap
-  - Visual Studio
+  - Visual Studio, vscode
   - SQL Server + SSMS
 
 
-- **Technologies I've hacked around with:**
+- **Things I've hacked around with:**
   - Maui
-  - React
   - SQlite
   - MongoDb + Compass
   - PHP + Apache
